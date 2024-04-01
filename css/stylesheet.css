@@ -1,0 +1,32 @@
+#red_paragraph{
+    color:brown;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif
+
+}
+.green_paragraph{
+    color:darkgreen;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+    width: 30%;
+    border: 2px solid black;
+    padding: 30px;
+    margin:0 auto;
+    display: block;
+}
+body{
+    background-image: url(../images/ideas.jpg);
+}
+.container{
+    border: 2px solid black;
+    width: 700px;
+    height: 500px;
+    background-color: darkgray;
+    position:relative;
+    left: 50px;
+    top: 50px;
+/*css styling sheet */
+}
